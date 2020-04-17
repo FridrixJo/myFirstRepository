@@ -51,3 +51,19 @@ window.addEventListener('DOMContentLoaded', function() {
         
 
 });
+
+/*<h1 class="title">what are you doing?</h1>
+    <div class="all">
+    <div class="container">
+    <div class="box">suck</div>
+    <div class="box">my</div>
+    <div class="box">dick</div>
+    </div>
+
+    <div class="cont">
+        <div class="cart">my dick</div>
+        <div class="cart">dick suck</div>
+        <div class="cart">suck my</div>
+        </div>
+    </div>
+*/

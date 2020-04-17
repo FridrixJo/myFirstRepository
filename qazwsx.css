@@ -5,14 +5,32 @@
     position: relative;
     z-index: 4;
     opacity: 0.3;
-    padding : 30px;
+    padding-left : 10px;
     height: 150px;
     width: 400px;
-    margin: 3em;
+    position: relative;
+    left : 15%;
+    top : 20px;
+    
     border-radius: 15px;
 }
 
 .jpg:hover {
     opacity: 1;
 }
+
+.obj1{
+    width: 40%;
+    height: 250px;
+}
+
+.obj2{
+    width: 40%;
+    height: 250px;
+    position: relative;
+    left: 60%;
+    top: -297px;
+}
+
+
 
