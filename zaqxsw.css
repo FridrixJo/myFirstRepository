@@ -32,3 +32,24 @@
     padding-top: 15px;
     display: none;
 }
+
+.href{
+    width: 200px;
+    height: 50px;
+    background-color: blueviolet;
+    position: relative;
+    left: 42.5%;
+    top : -480px;
+    z-index: 6;
+    text-align: center;
+}
+.short{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.header{
+    position: relative;
+    top: -100px;
+}
